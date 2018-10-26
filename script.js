@@ -1,7 +1,7 @@
 // JavaScript File
 /*global $*/
 
-$('body').click(function(){
-    
+$('#home').click(function(){
+
 });
 
